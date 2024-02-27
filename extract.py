@@ -6,6 +6,8 @@
 # Highly useful information on the .itl format itself found here:
 # https://github.com/josephw/titl/blob/master/titl-core/src/main/java/org/kafsemo/titl/ParseLibrary.java
 
+# originally copied from https://gist.github.com/jeamland/c856e9993008c9611a9910a3b22f9479
+
 import argparse
 import collections
 import csv
